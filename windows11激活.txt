@@ -1,0 +1,7 @@
+
+
+我们按win+X
+终端管理员
+irm https://massgrave.dev/get | iex
+
+我们再按win+R，输入slmgr.vbs /xpr 确定。
